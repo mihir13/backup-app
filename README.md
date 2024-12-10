@@ -2,6 +2,8 @@
 
 This is a desktop application for Mac that allows users to back up important directories such as 'Downloads', 'Documents', and 'Photos' to a home server.
 
+![Backup App Screenshot](assets/Backup-App.png)
+
 ## Features
 - Select directories or files to back up using native macOS dialogs
 - Choose a restore directory for backups
